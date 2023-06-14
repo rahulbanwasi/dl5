@@ -12,7 +12,7 @@ class CMD(object):
     HELP = ["help", f"help@{bot}"]
     # Open Settings Panel
     SETTINGS = ["settings", f"settings@{bot}"]
-    DOWNLOAD = ["dl", f"dl@{bot}"]
+    DOWNLOAD = ["dl5", f"dl5@{bot}"]
     # Auth user or chat to use the bot
     # TODO Add cmd to remove auth
     AUTH = ["auth", f"auth@{bot}"]
